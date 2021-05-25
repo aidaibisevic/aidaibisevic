@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aidaibisevic
-- 👀 I’m interested in exploring data in from all sorts of aspects..
+- 👀 I’m interested in exploring data in all sorts of aspects..
 - 🌱 I’m currently learning ML
 
 <!---
